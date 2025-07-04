@@ -5,14 +5,13 @@ A collection of concise, well-documented Kotlin and Android code snippets that d
  
  
 
-#####  Understanding Constructors in Kotlin [🔗 View Code](https://github.com/shreyashp47/CodeSnippet/blob/main/Kotlin/Understanding_Constructors.md)
-#####  lateinit Keyword in Kotlin [🔗 View Code](https://github.com/shreyashp47/CodeSnippet/blob/main/Kotlin/lateinit.md)
+  - Understanding Constructors in Kotlin [🔗 View Code](https://github.com/shreyashp47/CodeSnippet/blob/main/Kotlin/Understanding_Constructors.md)
+  - lateinit Keyword in Kotlin [🔗 View Code](https://github.com/shreyashp47/CodeSnippet/blob/main/Kotlin/lateinit.md)
 
 ---
 
 ## 🚀 Coming Soon
 
-- 🔄 `lateinit` keyword usage
 - 🕒 `const val` vs `val` vs `System.currentTimeMillis()`
 - 🧠 `lazy` initialization and delegation
 - 🔧 Constructor and `init` block examples
