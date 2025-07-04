@@ -5,7 +5,8 @@ A collection of concise, well-documented Kotlin and Android code snippets that d
  
  
 
-##### 🏗️ Understanding Constructors in Kotlin [🔗 View Code](https://github.com/shreyashp47/CodeSnippet/blob/main/Kotlin/Understanding_Constructors.md)
+#####  Understanding Constructors in Kotlin [🔗 View Code](https://github.com/shreyashp47/CodeSnippet/blob/main/Kotlin/Understanding_Constructors.md)
+#####  lateinit Keyword in Kotlin [🔗 View Code](https://github.com/shreyashp47/CodeSnippet/blob/main/Kotlin/lateinit.md)
 
 ---
 
