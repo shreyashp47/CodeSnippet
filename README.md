@@ -13,6 +13,18 @@ A collection of concise, well-documented Kotlin and Android code snippets that d
 ## 🚀 Coming Soon
 
 - 🕒 `const val` vs `val` vs `System.currentTimeMillis()`
+- Android Design Patterns
+    - Builder pattern
+    - Adapter pattern
+    - Factory
+    - Singleton
+    - Observer
+ 
+- Architecture pattern
+    - MVC
+    - MVP
+    - MVVM
+    - MVI   
 - 🧠 `lazy` initialization and delegation
 - 🔧 Constructor and `init` block examples
 - 🧍 `companion object` use cases
