@@ -5,14 +5,21 @@ A collection of concise, well-documented Kotlin and Android code snippets that d
  
  
 
-  - Understanding Constructors in Kotlin [🔗 View Code](https://github.com/shreyashp47/CodeSnippet/blob/main/Kotlin/Understanding_Constructors.md)
-  - lateinit Keyword in Kotlin [🔗 View Code](https://github.com/shreyashp47/CodeSnippet/blob/main/Kotlin/lateinit.md)
+  - Understanding Constructors in Kotlin [ View Code](https://github.com/shreyashp47/CodeSnippet/blob/main/Kotlin/Understanding_Constructors.md)
+  - lateinit Keyword in Kotlin [ View Code](https://github.com/shreyashp47/CodeSnippet/blob/main/Kotlin/lateinit.md)
+  - `const val` vs `val` [View Code](https://github.com/shreyashp47/CodeSnippet/blob/main/Kotlin/const%20val%20vs%20val%20in%20Kotlin.md)
 
 ---
 
-## 🚀 Coming Soon
-
-- 🕒 `const val` vs `val` vs `System.currentTimeMillis()`
+##  Coming Soon
+-  `lazy` initialization and delegation
+-  Constructor and `init` block examples
+-  `companion object` use cases
+-  Generics in Kotlin with real-world examples
+-  Android Jetpack component examples
+-  Custom Views in Compose
+-  Coroutine use cases and structured concurrency
+-  Common Android Interview Patterns
 - Android Design Patterns
     - Builder pattern
     - Adapter pattern
@@ -25,14 +32,7 @@ A collection of concise, well-documented Kotlin and Android code snippets that d
     - MVP
     - MVVM
     - MVI   
-- 🧠 `lazy` initialization and delegation
-- 🔧 Constructor and `init` block examples
-- 🧍 `companion object` use cases
-- 🧬 Generics in Kotlin with real-world examples
-- 🔧 Android Jetpack component examples
-- 🧩 Custom Views in Compose
-- ⚙️ Coroutine use cases and structured concurrency
-- 🧠 Common Android Interview Patterns
+
 
 
 
