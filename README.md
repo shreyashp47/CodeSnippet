@@ -13,14 +13,16 @@ A collection of concise, well-documented Kotlin and Android code snippets that d
 
 ##  Coming Soon
 -  `lazy` initialization and delegation
+-  Weak refrence
 -  Constructor and `init` block examples
 -  `companion object` use cases
--  Generics in Kotlin with real-world examples
+-  Generics in Kotlin with real-world examples | <T> vs Any
 -  Android Jetpack component examples
 -  Custom Views in Compose
 -  Coroutine use cases and structured concurrency
 -  Common Android Interview Patterns
 - Android Design Patterns
+- memory leak
     - Builder pattern
     - Adapter pattern
     - Factory
