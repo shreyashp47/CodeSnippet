@@ -21,8 +21,8 @@ A collection of concise, well-documented Kotlin and Android code snippets that d
 -  Custom Views in Compose
 -  Coroutine use cases and structured concurrency
 -  Common Android Interview Patterns
-- Android Design Patterns
 - memory leak
+- Android Design Patterns
     - Builder pattern
     - Adapter pattern
     - Factory
