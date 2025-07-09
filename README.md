@@ -1,4 +1,4 @@
-## 📚 Interview CodeSnippets
+##  Interview CodeSnippets
 
 A collection of concise, well-documented Kotlin and Android code snippets that demonstrate key concepts for interview preparation.
 
@@ -38,6 +38,6 @@ A collection of concise, well-documented Kotlin and Android code snippets that d
 
 
 
-#### 🙋 Author
+####  Author
 
 **Shreyash Pattewar**  *Android Developer*
