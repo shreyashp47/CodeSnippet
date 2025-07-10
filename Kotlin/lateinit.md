@@ -1,12 +1,12 @@
  
 
-## ✅ `lateinit` Keyword in Kotlin
+##  `lateinit` Keyword in Kotlin
 
 The `lateinit` keyword is used for **late initialization** of non-null `var` properties — primarily when you don’t want to initialize a variable during object construction, but **you promise** to initialize it before use.
 
 ---
 
-### 📌 Rules of `lateinit`
+###  Rules of `lateinit`
 
 * Can only be used with **non-nullable `var`** properties.
 * Cannot be used with **primitive types** like `Int`, `Double`, `Boolean`, `Char`, etc.
@@ -15,7 +15,7 @@ The `lateinit` keyword is used for **late initialization** of non-null `var` pro
 
 ---
 
-### 💻 Code Example
+###  Code Example
 
 ```kotlin
 fun main() {
@@ -45,7 +45,7 @@ class Person {
 
 ---
 
-### 📤 Sample Output
+###  Sample Output
 
 ```
 Name is NOT initialized
@@ -54,17 +54,17 @@ Name is initialized: Shreyash
 
 ---
 
-### ⚠️ Common Mistakes
+### ⚠ Common Mistakes
 
 | Mistake                     | Why It's Wrong                                     |
 | --------------------------- | -------------------------------------------------- |
-| `lateinit var number: Int`  | ❌ Not allowed for primitive types                  |
-| `lateinit val name: String` | ❌ Must be a `var`, not `val`                       |
-| Using inside `fun`          | ❌ `lateinit` cannot be used on **local variables** |
+| `lateinit var number: Int`  |  Not allowed for primitive types                  |
+| `lateinit val name: String` |  Must be a `var`, not `val`                       |
+| Using inside `fun`          |  `lateinit` cannot be used on **local variables** |
 
 ---
 
-### ✅ Use Cases
+###  Use Cases
 
 * Dependency injection (`lateinit var viewModel: MyViewModel`)
 * Views in Android (`lateinit var textView: TextView`)
