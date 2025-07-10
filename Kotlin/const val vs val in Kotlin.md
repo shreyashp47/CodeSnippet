@@ -5,7 +5,7 @@ In Kotlin, `const val` is used for **compile-time constants**, while `val` can h
 
 ---
 
-### 💡 Key Differences
+###  Key Differences
 
 | `const val`                                        | `val`                       |
 | -------------------------------------------------- | --------------------------- |
