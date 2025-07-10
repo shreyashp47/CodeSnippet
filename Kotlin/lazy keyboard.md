@@ -72,6 +72,9 @@ val lazyValue: String by lazy(LazyThreadSafetyMode.NONE) {
 * Expensive computations
 * Dependency injection scenarios
 
+###  Author
 
+**Shreyash Pattewar**
+*Android Developer*
 
 
