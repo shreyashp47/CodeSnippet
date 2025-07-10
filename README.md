@@ -8,11 +8,11 @@ A collection of concise, well-documented Kotlin and Android code snippets that d
   - Understanding Constructors in Kotlin [ View Code](https://github.com/shreyashp47/CodeSnippet/blob/main/Kotlin/Understanding_Constructors.md)
   - `lateinit` Keyword in Kotlin [ View Code](https://github.com/shreyashp47/CodeSnippet/blob/main/Kotlin/lateinit.md)
   - `const val` vs `val` [View Code](https://github.com/shreyashp47/CodeSnippet/blob/main/Kotlin/const%20val%20vs%20val%20in%20Kotlin.md)
+  - `lazy` initialization [View Code](https://github.com/shreyashp47/CodeSnippet/blob/main/Kotlin/lazy%20keyboard.md)
 
 ---
 
 ##  Coming Soon
--  `lazy` initialization and delegation
 -  Weak refrence
 -  Constructor and `init` block examples
 -  `companion object` use cases
