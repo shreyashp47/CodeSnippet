@@ -70,4 +70,7 @@ Name is initialized: Shreyash
 * Views in Android (`lateinit var textView: TextView`)
 * Unit testing mock setup (`lateinit var mockService: ApiService`)
 
- 
+ ###  Author
+
+**Shreyash Pattewar**
+*Android Developer*
