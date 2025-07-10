@@ -11,7 +11,7 @@ This Kotlin class demonstrates how **primary** and **secondary constructors** wo
 
  
 
-### 🔍 Code Snippet
+###  Code Snippet
 
 ```kotlin
 class Person(var name: String) {
@@ -42,7 +42,7 @@ class Person(var name: String) {
 
 ---
 
-### 🧪 Example Usage
+###  Example Usage
 
 ```kotlin
 fun main() {
@@ -54,7 +54,7 @@ fun main() {
 
 ---
 
-### 📤 Sample Output
+###  Sample Output
 
 ```
 1st init block 
@@ -93,7 +93,7 @@ fun main() {
 
 ---
 
-### 🙋 Author
+###  Author
 
 **Shreyash Pattewar**
 *Android Developer*
