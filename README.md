@@ -14,7 +14,6 @@ A collection of concise, well-documented Kotlin and Android code snippets that d
 
 ##  Coming Soon
 -  Weak refrence
--  Constructor and `init` block examples
 -  `companion object` use cases
 -  Generics in Kotlin with real-world examples | <T> vs Any
 -  Android Jetpack component examples
