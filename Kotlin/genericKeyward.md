@@ -17,7 +17,6 @@ class Box<T>(val value: T)
 
 Here, `T` is a type parameter. You can use `Box<Int>`, `Box<String>`, and so on.
 
----
 
 ## Examples of Generics
 
