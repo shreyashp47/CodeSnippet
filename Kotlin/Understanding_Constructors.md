@@ -64,7 +64,9 @@ fun main() {
 
 2nd init block 
 { Name: Shreyash Phone:  }
+
 ---
+
 1st init block 
 { Name: Shreyash Email:  }
 
@@ -73,7 +75,9 @@ fun main() {
 
 1st Constructor block 
 { Name: Shreyash Email: shreyashp47@gmail.com }
+
 ---
+
 1st init block 
 { Name: Shreyash Email:  }
 
