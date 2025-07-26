@@ -3,7 +3,7 @@ This Kotlin class demonstrates how **primary** and **secondary constructors** wo
 
  
 
-### ⚙️ How Initialization Works
+### How Initialization Works
 
 - The `init` blocks are executed **immediately after the primary constructor**.
 - **Secondary constructors** must delegate to the primary one, meaning the `init` blocks are executed **before** the secondary constructor’s logic.
@@ -84,7 +84,7 @@ fun main() {
 
 ---
 
-### 💡 Key Concepts Demonstrated
+### Key Concepts Demonstrated
 
 * Constructor chaining in Kotlin
 * `init` block execution order
