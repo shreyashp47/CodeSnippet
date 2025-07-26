@@ -31,7 +31,7 @@ class Person(var name: String) {
     constructor(name: String, email: String, phone: String) : this(name) {
         this.email = email
         this.phone = phone
-        println("1st Constructor block \n{ Name: $name Email: $email Phone: $phone }\n")
+        println("2nd Constructor block \n{ Name: $name Email: $email Phone: $phone }\n")
     }
 
     init {
@@ -47,7 +47,9 @@ class Person(var name: String) {
 ```kotlin
 fun main() {
     val person1 = Person("Shreyash")
+    println("---")
     val person2 = Person("Shreyash", "shreyashp47@gmail.com")
+    println("---")
     val person3 = Person("Shreyash", "shreyashp47@gmail.com", "8806308XXX")
 }
 ```
@@ -62,7 +64,7 @@ fun main() {
 
 2nd init block 
 { Name: Shreyash Phone:  }
-
+---
 1st init block 
 { Name: Shreyash Email:  }
 
@@ -71,14 +73,14 @@ fun main() {
 
 1st Constructor block 
 { Name: Shreyash Email: shreyashp47@gmail.com }
-
+---
 1st init block 
 { Name: Shreyash Email:  }
 
 2nd init block 
 { Name: Shreyash Phone:  }
 
-1st Constructor block 
+2nd Constructor block 
 { Name: Shreyash Email: shreyashp47@gmail.com Phone: 8806308XXX }
 ```
 
