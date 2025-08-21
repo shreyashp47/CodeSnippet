@@ -9,6 +9,7 @@ A collection of concise, well-documented Kotlin and Android code snippets that d
   - `lateinit` Keyword in Kotlin [ View Code](https://github.com/shreyashp47/CodeSnippet/blob/main/Kotlin/lateinit.md)
   - `const val` vs `val` [View Code](https://github.com/shreyashp47/CodeSnippet/blob/main/Kotlin/const%20val%20vs%20val%20in%20Kotlin.md)
   - `lazy` initialization [View Code](https://github.com/shreyashp47/CodeSnippet/blob/main/Kotlin/lazy%20keyboard.md)
+  - `Array` vs `List`
 
 ---
 
