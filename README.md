@@ -33,8 +33,55 @@ A collection of concise, well-documented Kotlin and Android code snippets that d
     - MVC
     - MVP
     - MVVM
-    - MVI   
+    - MVI
+ 
+1. var, val, const?
+2. kotlin vs java?
+3. What does null safety means ? 
+!! vs ?. vs ?:
+4. @JvmStatic , what is static in java?, companion object?
+5. Can a class have more one companion object?
+6. data class, sealed class. enum class 
+7. component.
+8. Lazy vs lateinit
+9. lazy thread safety
+10. what is coroutine and diff vs thread?
+11. Coroutine builders . launch vs async, withcontext(Dispatcher.io) {
 
+}
+12. Dispatchers io, main, default,
+13. exceptionhandling corotuiens
+    - [ ] viewmodel internals 
+
+What is a reified keyword in Kotlin?
+Answer: https://lnkd.in/g43562Uz
+
+What is an inline function in Kotlin?
+Answer: https://lnkd.in/gnPNfcDv
+
+What is the advantage of using const in Kotlin?
+Answer: https://lnkd.in/dtKuEsnS
+
+What are Coroutines in Kotlin?
+Answer: https://lnkd.in/ggQaDAZx
+
+What are Lambdas and Higher-order functions in Kotlin?
+Answer: https://lnkd.in/gv8T9p2j
+
+Suspending vs Blocking in Kotlin Coroutines
+Answer: https://lnkd.in/gaVi_SFt
+
+Internal visibility modifier in Kotlin
+Answer: https://lnkd.in/gJVPhkAf
+
+What is Context? How is it used?
+Answer: https://lnkd.in/gW2V6Cya
+
+Dalvik, ART, JIT, and AOT in Android
+Answer: https://lnkd.in/gZBj7UyF
+
+Explain OkHttp Interceptor and its usecases
+Answer: https://lnkd.in/ggAb8RuR
 
 
 
