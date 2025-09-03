@@ -1,4 +1,9 @@
-##  Interview CodeSnippets
+##  Interview Guide
+
+## Usefull tools
+| Kotlin | Kotlin Playground |   |
+| :------- | :------: | -------: |
+| LMArena  | Image Generation  |  |
 
 A collection of concise, well-documented Kotlin and Android code snippets that demonstrate key concepts for interview preparation.
 
@@ -14,6 +19,7 @@ A collection of concise, well-documented Kotlin and Android code snippets that d
 ---
 
 ##  Coming Soon
+- What is sse call
 -  Weak refrence
 -  `companion object` use cases
 -  Generics in Kotlin with real-world examples | <T> vs Any
