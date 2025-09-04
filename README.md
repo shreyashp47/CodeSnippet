@@ -21,6 +21,7 @@ A collection of concise, well-documented Kotlin and Android code snippets that d
 ##  Coming Soon
 - What is sse call
 -  Weak refrence
+- Dispatcher 
 -  `companion object` use cases
 -  Generics in Kotlin with real-world examples | <T> vs Any
 -  Android Jetpack component examples
