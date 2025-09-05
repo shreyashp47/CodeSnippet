@@ -19,7 +19,7 @@ A collection of concise, well-documented Kotlin and Android code snippets that d
 ---
 
 ##  Coming Soon
-- What is sse call
+- What is sse call / socket / API
 -  Weak refrence
 - Dispatcher 
 -  `companion object` use cases
