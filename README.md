@@ -1,9 +1,5 @@
 ##  Interview Guide
 
-## Usefull tools
-| Kotlin | Kotlin Playground |   |
-| :------- | :------: | -------: |
-| LMArena  | Image Generation  |  |
 
 A collection of concise, well-documented Kotlin and Android code snippets that demonstrate key concepts for interview preparation.
 
@@ -15,6 +11,12 @@ A collection of concise, well-documented Kotlin and Android code snippets that d
   - `const val` vs `val` [View Code](https://github.com/shreyashp47/CodeSnippet/blob/main/Kotlin/const%20val%20vs%20val%20in%20Kotlin.md)
   - `lazy` initialization [View Code](https://github.com/shreyashp47/CodeSnippet/blob/main/Kotlin/lazy%20keyboard.md)
   - `Array` vs `List` [View Code](https://github.com/shreyashp47/CodeSnippet/blob/main/Kotlin/Array%20vs%20List.md) 
+
+## Usefull tools
+| Kotlin | Kotlin Playground |   |
+| :------- | :------: | -------: |
+| LMArena  | Image Generation  |  |
+
 
 ---
 
